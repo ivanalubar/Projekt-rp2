@@ -1,12 +1,10 @@
 # Projekt-rp2
 
 Opis zadatka:
-Potrebno je razviti sustav koji će omogućiti korisnicima stvaranje i
-pregledavanje računa. Račun se izdaje nakon što se proda neki proizvod ili
-usluga i obavezno sadržava sljedeće informacije: broj računa, datum stvaranja
-računa, kolekciju stavki (opis prodane stavke, količina prodane stavke,
-jedinična cijena stavke bez poreza, ukupna cijena za stavku bez poreza, ukupna
-cijena s porezom) , stvaratelja računa (korisnik iz sustava) i naziv primatelja
-računa. 
-Sustav mora imati i korisnike koji se moraju registrirati i logirati u sustav
-kako bi mogli stvarati i pregledavati račune.
+
+Aplikacija zadovoljava usluge neke turističke agencije na način da je moguće izdavati 
+i pregledavati račune, imati pregled statistike o prodaji proizvoda ili usluge
+koju ta agencija nudi. Statistika je prikazana grafički i služi za predodžbu o 
+dostupnosti preostale (neprodane) usluge. 
+
+
